@@ -40,7 +40,7 @@ export const homeData = [
     },
     {
       id: 4,
-      name: "Shadow",
+      name: "Shadowe",
       rating: 4.9,
       time: "2hr : 22mins",
       desc: "Sand and dust storms (SDS), also known as sirocco, haboob, yellow dust, white storms, and the harmattan, are a natural phenomenon linked with land and water management and climate change.",
@@ -128,11 +128,12 @@ export const homeData = [
       genres: "Action",
       tags: "Action, Adventures, Horror",
       cover: "../images/img/slide1.png",
+      
       date: "20-Jan-1997",
     },
     {
       id: 2,
-      name: "The Great Emperor",
+      name: "jumbo Queen",
       rating: 4.6,
       time: "2hr : 22mins",
       desc: "The island, like its inhabitants, is wholly fictional. Kong's island home in the Pacific makes its first appearance, along with Kong himself, in the 1933 film King Kong. ",
@@ -144,11 +145,11 @@ export const homeData = [
     },
     {
       id: 3,
-      name: "Jumbo Queen",
+      name: "BORN TO OVERCOME ",
       rating: 4.8,
       time: "2hr : 22mins",
-      desc: "Piracy is an act of robbery or criminal violence by ship or boat-borne attackers upon another ship or a coastal area, typically with the goal of stealing cargo and other valuable items or properties. ",
-      starring: "James Chinlund, Jeff Nathanson",
+      desc: "Born To Overcome is an hour long documentary that follow’s Kevin from the very first moments of his Arnold Classic Australia 2018 comeback all the way through to the end. It showcases the struggles (both physically and mentally), the laser focus, and a final reflective moment after his competition. ",
+      starring: "kevin Levrone",
       genres: "Adventures",
       tags: "Adventures,Action ",
       cover: "../images/img/slide3.jpg",

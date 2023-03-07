@@ -12,7 +12,7 @@ return (
         <Header />
         <Switch>
         <Route exact path='/' component={HomePage} />
-        <Route path='/singlepage/:id' component={SinglePage} exact />
+        <Route path='/singlepage/:id' component={SinglePage} exact /> 
         </Switch>
         <Footer />
     </Router>

@@ -8,7 +8,7 @@
 }
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #141414;
+  background-color: #000000;
 }
 /*---------------global-------------*/
 a {
@@ -30,7 +30,7 @@ ul {
   margin: auto;
 }
 button {
-  background: #e50813;
+  background: #220102;
   outline: none;
   border: none;
   color: #fff;
@@ -74,7 +74,7 @@ p {
   margin: 30px 0;
 }
 .heading a {
-  color: #e50813;
+  color: #dad5d6;
 }
 /*---------------MovieBox-------------*/
 
@@ -89,7 +89,7 @@ p {
   cursor: pointer;
   border-left: 5px solid #e50813;
   transform: scale3d(1.1, 1.1, 1) translate3d(6%, 0, 0) perspective(31.25em);
-  box-shadow: 0px 0px 0.75em rgba(0, 0, 0, 0.9);
+  box-shadow: 0px 0px 0.75em rgba(143, 142, 142, 0.9);
 }
 .MovieBox::after {
   content: "";
@@ -98,7 +98,7 @@ p {
   left: 0;
   width: 430px;
   height: 300px;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.8) 0%, rgba(20, 20, 20, 0.4) 50%, rgba(83, 100, 141, 0) 100%);
+  background: linear-gradient(90deg, rgba(110, 108, 108, 0.8) 0%, rgba(27, 27, 27, 0.4) 50%, rgba(27, 27, 27, 0) 100%);
   z-index: -1;
 }
 .MovieBox img {
